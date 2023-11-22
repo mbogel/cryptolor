@@ -1,3 +1,3 @@
 # Cryptolor
 
-Encode data within ong images using color
+Encode data within png images using color modulation
